@@ -1,0 +1,41 @@
+body{
+	background-color:rgb(255,49,77);
+	
+	font-family: Verdana, Geneva, sans-serif;
+	
+	font-size:18px;
+	font-weight:normal;
+	
+	line-height:1.5em;
+}
+
+.button {
+	color: black;
+	text-decoration: box;
+	padding: 20px 34px;
+	cursor: pointer;
+	margin: 4px 2px;
+}
+
+.box{
+	width:80%
+	margin:auto;
+	
+	border-right:5px black solid;
+	border-left:5px black solid;
+	
+	padding:20px;
+}
+
+.box h1{
+	font-weight:800;
+}
+
+.categories h2{
+	text-align:center;
+}
+
+.categories ul{
+	padding:0;
+	list-style:circle;
+}
